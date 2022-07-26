@@ -4,7 +4,7 @@ Repositório criado para guardar os arquivos .ipynb do notebook das atividades d
 ------
 # EFC 1
 
-Trabalho realizado por Stenio Henrique M. Silva (201810609) e Gustavo Henrique Moisés (201820380). 
+Trabalho realizado por Stenio Henrique M. Silva (201810609) e Gustavo Henrique Moisés (201820380). Turma 14A 
 
 
 Para verificar a resposta do EFC 1, deve abrir o arquivo EFC1_GCC_253_Stenio.ipynb no colab como um notebook. 

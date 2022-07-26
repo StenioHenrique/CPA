@@ -7,7 +7,7 @@ Repositório criado para guardar os arquivos .ipynb do notebook das atividades d
 Para verificar a resposta do EFC 1, deve abrir o arquivo EFC1_GCC_253_Stenio.ipynb no notebook. 
 
 
-O arquivo também pode ser aberto utilizando o link direto do (Notebook)[https://colab.research.google.com/drive/1uzO9EaqAKADY1LauWIx8O5m8MpObgWIG?usp=sharing]. **Deve estar logado com e-mail institucional da UFLA para que tenha acesso ao arquivo.** 
+O arquivo também pode ser aberto utilizando o link direto do [Notebook](https://colab.research.google.com/drive/1uzO9EaqAKADY1LauWIx8O5m8MpObgWIG?usp=sharing). **Deve estar logado com e-mail institucional da UFLA para que tenha acesso ao arquivo.** 
 
 Tendo o aberto, executa, nessa ordem as sessões: 
 

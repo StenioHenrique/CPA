@@ -4,7 +4,7 @@ Repositório criado para guardar os arquivos .ipynb do notebook das atividades d
 ------
 # EFC 1
 
-Para verificar a resposta do EFC 1, deve abrir o arquivo EFC1_GCC_253_Stenio.ipynb. 
+Para verificar a resposta do EFC 1, deve abrir o arquivo EFC1_GCC_253_Stenio.ipynb no notebook. 
 
 Tendo o aberto, executa, nessa ordem as sessões: 
 
